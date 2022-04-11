@@ -1,0 +1,12 @@
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\net5.0\Alura.LeilaoOnline.Core.deps.json
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\net5.0\Alura.LeilaoOnline.Core.dll
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\net5.0\ref\Alura.LeilaoOnline.Core.dll
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\net5.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net5.0\Alura.LeilaoOnline.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net5.0\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net5.0\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net5.0\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net5.0\Alura.LeilaoOnline.Core.dll
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net5.0\ref\Alura.LeilaoOnline.Core.dll
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net5.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\supero\Documents\Estudos\Projetos\TDD\Alura\Leilao\AluraLeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net5.0\Alura.LeilaoOnline.Core.csproj.AssemblyReference.cache
